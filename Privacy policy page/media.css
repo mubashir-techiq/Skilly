@@ -1,0 +1,32 @@
+@media(max-width:1200px){
+}
+@media(max-width:900px){
+    .para{
+        font-size: 2rem;
+    }
+    p{
+        font-size:0.9rem;
+    }
+    .foot-list{
+        font-size: 0.9rem;
+    }
+    .heading h1, .headings h1{
+        font-size: 1.2rem;
+    }
+}
+@media(max-width:600px){
+    .para{
+        font-size: 1rem;
+    }
+    p{
+        font-size:0.7rem;
+    }
+    .foot-list{
+        font-size: 0.6rem;
+    }
+    .heading h1, .headings h1{
+        font-size: 1rem;
+    }
+}
+@media(max-width:400px){
+}
